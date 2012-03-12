@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mafia/!svn/ver/2228/trunk/mafia_iphone/LotipleApp/OAuthConsumer
+END
+OAServiceTicket.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mafia/!svn/ver/1428/trunk/mafia_iphone/LotipleApp/OAuthConsumer/OAServiceTicket.m
+END
+OADataFetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mafia/!svn/ver/2228/trunk/mafia_iphone/LotipleApp/OAuthConsumer/OADataFetcher.h
+END
+NSMutableURLRequest+Parameters.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/mafia/!svn/ver/1843/trunk/mafia_iphone/LotipleApp/OAuthConsumer/NSMutableURLRequest+Parameters.m
+END
+OAPlaintextSignatureProvider.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/mafia/!svn/ver/1428/trunk/mafia_iphone/LotipleApp/OAuthConsumer/OAPlaintextSignatureProvider.m
+END
+OAuthConsumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mafia/!svn/ver/1428/trunk/mafia_iphone/LotipleApp/OAuthConsumer/OAuthConsumer.h
+END
+OADataFetcher.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mafia/!svn/ver/2228/trunk/mafia_iphone/LotipleApp/OAuthConsumer/OADataFetcher.m
+END
+OAToken.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mafia/!svn/ver/1428/trunk/mafia_iphone/LotipleApp/OAuthConsumer/OAToken.h
+END
+OAHMAC_SHA1SignatureProvider.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/mafia/!svn/ver/1428/trunk/mafia_iphone/LotipleApp/OAuthConsumer/OAHMAC_SHA1SignatureProvider.h
+END
+OASignatureProviding.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mafia/!svn/ver/1428/trunk/mafia_iphone/LotipleApp/OAuthConsumer/OASignatureProviding.h
+END
+OAMutableURLRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mafia/!svn/ver/1814/trunk/mafia_iphone/LotipleApp/OAuthConsumer/OAMutableURLRequest.h
+END
+OAToken.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mafia/!svn/ver/1428/trunk/mafia_iphone/LotipleApp/OAuthConsumer/OAToken.m
+END
+OAHMAC_SHA1SignatureProvider.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/mafia/!svn/ver/1428/trunk/mafia_iphone/LotipleApp/OAuthConsumer/OAHMAC_SHA1SignatureProvider.m
+END
+OAAsynchronousDataFetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/mafia/!svn/ver/1428/trunk/mafia_iphone/LotipleApp/OAuthConsumer/OAAsynchronousDataFetcher.h
+END
+NSURL+Base.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mafia/!svn/ver/1428/trunk/mafia_iphone/LotipleApp/OAuthConsumer/NSURL+Base.h
+END
+OARequestParameter.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mafia/!svn/ver/1428/trunk/mafia_iphone/LotipleApp/OAuthConsumer/OARequestParameter.h
+END
+OAMutableURLRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mafia/!svn/ver/2228/trunk/mafia_iphone/LotipleApp/OAuthConsumer/OAMutableURLRequest.m
+END
+OAConsumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mafia/!svn/ver/1428/trunk/mafia_iphone/LotipleApp/OAuthConsumer/OAConsumer.h
+END
+OAAsynchronousDataFetcher.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/mafia/!svn/ver/1428/trunk/mafia_iphone/LotipleApp/OAuthConsumer/OAAsynchronousDataFetcher.m
+END
+NSString+URLEncoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mafia/!svn/ver/1428/trunk/mafia_iphone/LotipleApp/OAuthConsumer/NSString+URLEncoding.h
+END
+NSURL+Base.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mafia/!svn/ver/1428/trunk/mafia_iphone/LotipleApp/OAuthConsumer/NSURL+Base.m
+END
+OARequestParameter.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mafia/!svn/ver/1428/trunk/mafia_iphone/LotipleApp/OAuthConsumer/OARequestParameter.m
+END
+OAConsumer.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mafia/!svn/ver/1428/trunk/mafia_iphone/LotipleApp/OAuthConsumer/OAConsumer.m
+END
+NSString+URLEncoding.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mafia/!svn/ver/1428/trunk/mafia_iphone/LotipleApp/OAuthConsumer/NSString+URLEncoding.m
+END
+OAServiceTicket.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mafia/!svn/ver/1428/trunk/mafia_iphone/LotipleApp/OAuthConsumer/OAServiceTicket.h
+END
+NSMutableURLRequest+Parameters.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/mafia/!svn/ver/1428/trunk/mafia_iphone/LotipleApp/OAuthConsumer/NSMutableURLRequest+Parameters.h
+END
+OAPlaintextSignatureProvider.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/mafia/!svn/ver/1428/trunk/mafia_iphone/LotipleApp/OAuthConsumer/OAPlaintextSignatureProvider.h
+END
